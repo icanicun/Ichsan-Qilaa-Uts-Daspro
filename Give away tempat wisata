@@ -86,3 +86,42 @@ while pilihan !=0:
     elif pilihan == 0:
         print("Bye bYE FEVER")
         break
+Hasil Run Code
+
+************************************************
+======    Kamu Mau Masuk PULAU IMPIAN ?   ======
+======  Isikan Data Diri Kamu Dulu Ya !!  ======
+************************************************
+ 
+
+Tuliskan Nama Kamu :a
+ 
+1+1
+Berapa Hasil dari Penjumlahan Tersebut ?
+Jawaban Kamu :
+2
+ 
+Yeay! Jawaban Kamu Benar
+ 
+Selamat Datang di PROGRAM PULAU IMPIAN Bos a
+ 
+***********************  PULAU IMPIAN Di dirikan oleh  ************************
+#                              Ichsan Alfianto                                #
+#                              Aqiila Ayyah wew                               #
+*******************************************************************************
+ 
+
+----Daftar pilihan DESTINASI yang dapat kamu kunjungi di BOGOR----
+1. Istana Bogor
+2. Kebun Raya Bogor
+3. Jungle Land
+4. Kebun Raya Cibodas
+0. Keluar
+Masukan Angka pilihan Kamu, kemudian tekan enter :1
+
+ 
+*****************************Istana Bogor****************************
+ tempat wisata yang dapat kamu kunjungi di Kota Bogor :
+Istana Bogor
+ 
+SELAMAT BERLIBUR DI ISTANA BOGOR
