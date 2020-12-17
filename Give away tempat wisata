@@ -1,0 +1,51 @@
+print ("***********************  PULAU IMPIAN Di dirikan oleh  ************************")
+print ("#                              Ichsan Alfianto                                #")
+print ("#                              Aqiila Ayyah wew                               #")
+print ("*******************************************************************************")
+print (" ")
+
+pilihan = 1
+while pilihan !=0:
+    print ("")
+    print ("----Daftar pilihan DESTINASI yang dapat kamu kunjungi di BOGOR----")
+    print ("1. Istana Bogor")
+    print ("2. Kebun Raya Bogor") 
+    print ("3. Jungle Land") 
+    print ("4. Kebun Raya Cibodas") 
+    print ("0. Keluar")
+    pilihan = int(input("Masukan Angka pilihan Kamu, kemudian tekan enter :"))
+    print("")
+    
+    if pilihan == 1:
+        print (" ")
+        print ("*****************************Istana Bogor****************************")
+        print (" tempat wisata yang dapat kamu kunjungi di Kota Bogor :")
+        print ("Istana Bogor")
+        print (" ")
+        print ("SELAMAT BERLIBUR DI ISTANA BOGOR")
+    elif pilihan == 2:
+        print (" ")
+        print ("*****************************Kebun Raya Bogor****************************")
+        print (" tempat wisata yang dapat kamu kunjungi di Kota Bogor :")
+        print ("Kebun Raya Bogor")
+        print (" ")
+        print ("SELAMAT BERLIBUR DI KEBUN RAYA BOGOR")
+    elif pilihan == 3:
+        print (" ")
+        print ("*****************************Jungle Land****************************")
+        print (" tempat wisata yang dapat kamu kunjungi di Kota Bogor :")
+        print ("Jungle Land")
+        print (" ")
+        print ("SELAMAT BERLIBUR DI JUNGLE LAND")
+        print ("\n")
+    elif pilihan == 4:
+        print (" ")
+        print ("*****************************Kebun Raya Cibodas****************************")
+        print (" tempat wisata yang dapat kamu kunjungi di Kota Bogor :")
+        print ("Kebun Raya Cibodas")
+        print (" ")
+        print ("SELAMAT BERLIBUR DI KEBUN RAYA CIBODAS")
+        print ("\n")
+    elif pilihan == 0:
+        print("Bye bYE FEVER")
+        break
